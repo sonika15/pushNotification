@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174049256415",
+    "project_id": "galactiknotificationandroid",
+    "storage_bucket": "galactiknotificationandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174049256415:android:9610682e621c488251da6a",
+        "android_client_info": {
+          "package_name": "com.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174049256415-8nfbfdg3m33uknna0rv4n8k88qagj7v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notification",
+            "certificate_hash": "1b676f1f97295277e36ef172563dab6b247f22e2"
+          }
+        },
+        {
+          "client_id": "174049256415-cdm256bpnooqen7ihedt17hh862h8aau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdO2YJi5DnXXSxhQhCOTwBI8cF6ONFORY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174049256415-cdm256bpnooqen7ihedt17hh862h8aau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

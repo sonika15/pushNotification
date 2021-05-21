@@ -1,0 +1,3 @@
+include ':galactikNotification'
+include ':app'
+rootProject.name = "GalactikNotification"
